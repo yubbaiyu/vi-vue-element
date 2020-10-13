@@ -2,7 +2,7 @@
 
 ```bash
 # clone the project
-git clone 
+git clone https://github.com/yubbaiyu/vi-vue-element.git
 
 # enter the project directory
 cd xx
